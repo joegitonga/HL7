@@ -1,0 +1,11 @@
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\bin\Debug\netcoreapp3.1\HLServer.exe
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\bin\Debug\netcoreapp3.1\HLServer.deps.json
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\bin\Debug\netcoreapp3.1\HLServer.runtimeconfig.json
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\bin\Debug\netcoreapp3.1\HLServer.runtimeconfig.dev.json
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\bin\Debug\netcoreapp3.1\HLServer.dll
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\bin\Debug\netcoreapp3.1\HLServer.pdb
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\obj\Debug\netcoreapp3.1\HLServer.csprojAssemblyReference.cache
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\obj\Debug\netcoreapp3.1\HLServer.AssemblyInfoInputs.cache
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\obj\Debug\netcoreapp3.1\HLServer.AssemblyInfo.cs
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\obj\Debug\netcoreapp3.1\HLServer.dll
+C:\Users\DevX\source\repos\C#\Console\HLServer\HLServer\obj\Debug\netcoreapp3.1\HLServer.pdb
